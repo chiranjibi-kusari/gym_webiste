@@ -20,7 +20,7 @@ const Pricing = () => {
             <h1 className='text-3xl font-bold'>For one month</h1>
             <p className='mt-2 text-xl text-black mb-3'>Rs:3000/per month</p>
             <ul className='text-start'>
-                <li><span>-</span>Unlimated access ti gym</li>
+                <li><span>-</span>Unlimated access gym</li>
                 <li><span>-</span>Personal trainer</li>
                 <li><span>-</span>6 classes per week</li>
             </ul>
@@ -30,7 +30,7 @@ const Pricing = () => {
             <h1 className='text-3xl font-bold'>For Three month</h1>
             <p className='mt-2 text-xl text-black mb-3'>Rs:7500/3 month</p>
             <ul className='text-start'>
-                <li><span>-</span>Unlimated access ti gym</li>
+                <li><span>-</span>Unlimated access gym</li>
                 <li><span>-</span>Personal trainer</li>
                 <li><span>-</span>6 classes per week</li>
             </ul>
@@ -40,7 +40,7 @@ const Pricing = () => {
             <h1 className='text-3xl font-bold'>For one year</h1>
             <p className='mt-2 text-xl text-black mb-3'>Rs:26500/per year</p>
             <ul className='text-start'>
-                <li><span>-</span>Unlimated access ti gym</li>
+                <li><span>-</span>Unlimated access gym</li>
                 <li><span>-</span>Personal trainer</li>
                 <li><span>-</span>6 classes per week</li>
             </ul>
